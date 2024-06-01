@@ -1,4 +1,6 @@
 {
+
+  "homepage": "http://berkshirestairs.github.io/website/",
   "dependencies": {
     "react-dom": "^16.8.0",
     "react-is": "^18.3.1",
