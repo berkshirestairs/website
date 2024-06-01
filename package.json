@@ -9,7 +9,7 @@
 
 
 "scripts": {
-    "deploy": "^gh-pages -d buid",
+    "deploy": "gh-pages -d buid",
    
   }
   
