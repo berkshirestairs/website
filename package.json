@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "prop-types": "~15.7.2",
+    "react-photo-gallery": "^8.0.0",
     "resize-observer-polyfill": "^1.5.0"
   },
   "devDependencies": {
